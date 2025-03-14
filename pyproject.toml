@@ -1,0 +1,7 @@
+[project]
+name = "sockets"
+version = "0.1.0"
+description = "A simple Python project in which a client send a message to a server either by TCP or UDP connection"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
